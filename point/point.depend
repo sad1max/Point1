@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507671739 source:c:\users\user\desktop\УРОКИ\Алоритмы и структуры данных\point\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
